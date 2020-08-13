@@ -14,3 +14,7 @@
 12) Open file with nano editor: nano file_name.txt <br>
 13) Type and save by ctrl+s <br>
 14) Quit Nano edior by pressing ctrl+x <br>
+___
+## Customization
+[Blog](https://medium.com/@ajitsahoo29/the-ultimate-guide-to-install-and-customize-windows-terminal-2019-6963dfc06587)
+[Microsoft](https://github.com/microsoft/terminal/blob/master/doc/cascadia/SettingsSchema.md#profilesjson-documentation)
